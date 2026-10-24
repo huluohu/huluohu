@@ -2,7 +2,7 @@
 <img src="assets/header.svg" alt="huluohu banner" width="100%"/>
 
 <!-- 打字机副标语 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A371F7&center=true&vCenter=true&random=false&width=560&lines=%E7%BB%86%E5%97%85%E8%94%B7%E8%96%87%EF%BC%8C%E5%BF%83%E6%9C%89%E5%93%88%E5%A3%AB%E5%A5%87+%F0%9F%90%BA;Building+Ottr+%C2%B7+AI-native+server+manager;Self-hosting+enthusiast+%C2%B7+NAS+%26+Homelab;TypeScript+%C2%B7+Rust+%C2%B7+Vue+%C2%B7+AI+Apps)](https://github.com/huluohu)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A371F7&center=true&vCenter=true&random=false&width=560&lines=%E7%BB%86%E5%97%85%E8%94%B7%E8%96%87%EF%BC%8C%E5%BF%83%E6%9C%89%E5%93%88%E5%A3%AB%E5%A5%87+%F0%9F%90%BA;Building+Ottr+%26+Raccoon+%C2%B7+open-source+tools;Self-hosting+enthusiast+%C2%B7+NAS+%26+Homelab;TypeScript+%C2%B7+Rust+%C2%B7+Go+%C2%B7+Vue+%C2%B7+AI+Apps)](https://github.com/huluohu)
 
 <!-- 徽章行 -->
 [![Blog](https://img.shields.io/badge/blog-huluohu.com-58a6ff?style=flat-square&logo=hexo&logoColor=white)](https://www.huluohu.com)
@@ -27,6 +27,7 @@ $ whoami
 **🛠️ 技术栈**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -48,8 +49,8 @@ $ whoami
   <a href="https://github.com/huluohu/Ottr">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=huluohu&repo=Ottr&theme=github_dark&show_owner=true"/>
   </a>
-  <a href="https://github.com/huluohu/Lynx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huluohu&repo=Lynx&theme=github_dark&show_owner=true"/>
+  <a href="https://github.com/huluohu/Raccoon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huluohu&repo=Raccoon&theme=github_dark&show_owner=true"/>
   </a>
 </div>
 
@@ -62,6 +63,15 @@ $ whoami
 - 🖥️ **跨平台**：macOS / Windows / Linux 全覆盖，基于 Tauri 2 + Rust，轻量不臃肿
 - 📦 MIT 开源，欢迎 Star & 提 Issue
 
+### 🦝 [Raccoon](https://github.com/huluohu/Raccoon) — 自托管多媒体下载中心
+
+> B站 / YouTube / 抖音一键下载，媒体库自己做主
+
+- 📥 **多平台一键下载**：B站 / YouTube / 抖音等，扫码登录即用
+- 🔁 **内置格式转换**：下载完直接入库，不用二次折腾
+- 🤖 **多端触达**：MCP / Telegram / 快捷指令，随时随地发起下载
+- 🏠 Go 实现，自托管部署，数据不出家门
+
 ### 🐱 [Lynx](https://github.com/huluohu/Lynx) — 个人资产驾驶舱
 
 > L¥NX 读作 Lynx，中文名「灵猞」—— 敏锐而克制的投资决策助手
@@ -69,9 +79,15 @@ $ whoami
 - 📈 敏锐观察市场变化，连续跟踪资金、收益、成本与仓位
 - 🎯 克制的设计哲学：只做驾驶舱，不替你做决定
 
-### 🖥️ [sidecar-monitor](https://github.com/huluohu/sidecar-monitor) — Sidecar 监控桌面工具
+<details>
+<summary>📦 更多项目 More Projects</summary>
 
-- 多场地 Sidecar 监控，Electron + Vue 3 桌面端实现
+| 项目 | 一句话介绍 |
+| --- | --- |
+| 🦅 [HawkSnap](https://github.com/huluohu/HawkSnap) | 轻量到没有存在感的截屏 + 录屏工具：快捷键、框住、完事，内容只存本机 |
+| 🖥️ [sidecar-monitor](https://github.com/huluohu/sidecar-monitor) | 多场地 Sidecar 监控桌面工具（Electron + Vue 3） |
+
+</details>
 
 ---
 
