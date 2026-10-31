@@ -91,6 +91,29 @@ $ whoami
 
 ---
 
+<!-- 🤖 DYNAMIC:START -->
+## 📡 仓库动态
+
+> 🤖 本区块由 GitHub Actions 每日自动更新 · 最后更新 2026-10-31 15:49 (UTC+8)
+
+### 🔨 活跃项目
+
+- 🆕 **[HawkSnap](https://github.com/huluohu/HawkSnap)** · `Rust` — 🦅 轻量到没有存在感的截屏 + 录屏工具：按下快捷键、框住、完事。区域/窗口截图、区域录屏、GIF、OCR、贴图、长截图、浏览器插件——纯本地，MIT（Tau…（更新于 今天）
+- 🆕 **[Ottr](https://github.com/huluohu/Ottr)** · `TypeScript` · ⭐ 2 — 🦦 Ottr / 喔獭，AI 原生的轻量级开源服务器管理工具：SSH 终端 + 报错即诊 + 自然语言生成命令 + 免 Agent 监控 + SFTP，BYO…（更新于 今天）
+- 🆕 **[Raccoon](https://github.com/huluohu/Raccoon)** · `Go` · ⭐ 1 — 🦝 自托管多媒体下载中心：B站/YouTube/抖音等一键下载，扫码登录、格式转换、MCP/Telegram/快捷指令多端触达（更新于 今天）
+- **[sidecar-monitor](https://github.com/huluohu/sidecar-monitor)** · `TypeScript` · ⭐ 1 — 多场地 Sidecar 监控桌面工具（Electron + Vue 3）。（更新于 2026-09-22）
+- **[Lynx](https://github.com/huluohu/Lynx)** · `JavaScript` · ⭐ 7 — L¥NX 读作 Lynx，中文名：灵猞，Lynx 取自猞猁，强调对市场变化的敏捷、警觉与连续观察能力；中间的 ¥ 指向资金、收益、成本与仓位管理场景。整体定位…（更新于 2026-09-20）
+
+### 🚀 最新发布
+
+- **[Ottr · v1.5.16](https://github.com/huluohu/Ottr/releases/tag/v1.5.16)** — 今天
+- **[HawkSnap · HawkSnap v1.1.0](https://github.com/huluohu/HawkSnap/releases/tag/v1.1.0)** — 今天
+- **[Raccoon · v1.0.22 · 代理切换日志按本轮实际出口判定](https://github.com/huluohu/Raccoon/releases/tag/v1.0.22)** — 今天
+- **[sidecar-monitor · v0.1.11](https://github.com/huluohu/sidecar-monitor/releases/tag/v0.1.11)** — 2026-09-22
+<!-- 🤖 DYNAMIC:END -->
+
+---
+
 <!-- ═══════════════ GITHUB STATS ═══════════════ -->
 
 ## 📊 GitHub Stats
