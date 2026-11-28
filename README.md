@@ -94,22 +94,22 @@ $ whoami
 <!-- 🤖 DYNAMIC:START -->
 ## 📡 仓库动态
 
-> 🤖 本区块由 GitHub Actions 每日自动更新 · 最后更新 2026-11-27 09:06 (UTC+8)
+> 🤖 本区块由 GitHub Actions 每日自动更新 · 最后更新 2026-11-28 09:06 (UTC+8)
 
 ### 🔨 活跃项目
 
-- 🆕 **[global-deal-hunter-feed](https://github.com/huluohu/global-deal-hunter-feed)** · `Python` — GLOBAL DEAL HUNTER｜全球羊毛情报中心」的公开数据货架：deals.json 供自托管 Docker 看板拉取式同步，skill/ 是 age…（更新于 今天）
-- 🆕 **[HawkSnap](https://github.com/huluohu/HawkSnap)** · `Rust` — 🦅 轻量到没有存在感的截屏 + 录屏工具：按下快捷键、框住、完事。区域/窗口截图、区域录屏、GIF、OCR、贴图、长截图、浏览器插件——纯本地，MIT（Tau…（更新于 6 天前）
-- **[Ottr](https://github.com/huluohu/Ottr)** · `TypeScript` · ⭐ 2 — 🦦 Ottr — a lightweight, open-source, AI-native server manager: SSH terminal, di…（更新于 6 天前）
-- **[Raccoon](https://github.com/huluohu/Raccoon)** · `Go` · ⭐ 1 — 🦝 自托管多媒体下载中心：B站/YouTube/抖音等一键下载，扫码登录、格式转换、MCP/Telegram/快捷指令多端触达（更新于 25 天前）
+- 🆕 **[global-deal-hunter-feed](https://github.com/huluohu/global-deal-hunter-feed)** · `Python` — GLOBAL DEAL HUNTER｜全球羊毛情报中心」的公开数据货架：deals.json 供自托管 Docker 看板拉取式同步，skill/ 是 age…（更新于 昨天）
+- 🆕 **[HawkSnap](https://github.com/huluohu/HawkSnap)** · `Rust` — 🦅 轻量到没有存在感的截屏 + 录屏工具：按下快捷键、框住、完事。区域/窗口截图、区域录屏、GIF、OCR、贴图、长截图、浏览器插件——纯本地，MIT（Tau…（更新于 7 天前）
+- **[Ottr](https://github.com/huluohu/Ottr)** · `TypeScript` · ⭐ 2 — 🦦 Ottr — a lightweight, open-source, AI-native server manager: SSH terminal, di…（更新于 7 天前）
+- **[Raccoon](https://github.com/huluohu/Raccoon)** · `Go` · ⭐ 1 — 🦝 自托管多媒体下载中心：B站/YouTube/抖音等一键下载，扫码登录、格式转换、MCP/Telegram/快捷指令多端触达（更新于 26 天前）
 - **[sidecar-monitor](https://github.com/huluohu/sidecar-monitor)** · `TypeScript` · ⭐ 1 — 多场地 Sidecar 监控桌面工具（Electron + Vue 3）。（更新于 2026-09-22）
 - **[Lynx](https://github.com/huluohu/Lynx)** · `JavaScript` · ⭐ 7 — L¥NX 读作 Lynx，中文名：灵猞，Lynx 取自猞猁，强调对市场变化的敏捷、警觉与连续观察能力；中间的 ¥ 指向资金、收益、成本与仓位管理场景。整体定位…（更新于 2026-09-20）
 
 ### 🚀 最新发布
 
-- **[Ottr · v1.7.13](https://github.com/huluohu/Ottr/releases/tag/v1.7.13)** — 6 天前
-- **[HawkSnap · HawkSnap v1.2.0](https://github.com/huluohu/HawkSnap/releases/tag/v1.2.0)** — 9 天前
-- **[Raccoon · v1.0.27 · 容器挂载目录权限自愈（开箱即用）+ SQLite 错误码精准映射](https://github.com/huluohu/Raccoon/releases/tag/v1.0.27)** — 25 天前
+- **[Ottr · v1.7.13](https://github.com/huluohu/Ottr/releases/tag/v1.7.13)** — 7 天前
+- **[HawkSnap · HawkSnap v1.2.0](https://github.com/huluohu/HawkSnap/releases/tag/v1.2.0)** — 10 天前
+- **[Raccoon · v1.0.27 · 容器挂载目录权限自愈（开箱即用）+ SQLite 错误码精准映射](https://github.com/huluohu/Raccoon/releases/tag/v1.0.27)** — 26 天前
 - **[sidecar-monitor · v0.1.11](https://github.com/huluohu/sidecar-monitor/releases/tag/v0.1.11)** — 2026-09-22
 <!-- 🤖 DYNAMIC:END -->
 
